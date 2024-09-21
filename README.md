@@ -78,7 +78,7 @@ Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
 
 ```bash
 > cd 
-> cd ansi-BOT-MD
+> cd BROLYBOT-MD
 > rm -rf sessions
 > npm start
 ```
