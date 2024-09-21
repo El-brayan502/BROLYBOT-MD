@@ -52,7 +52,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
 ```
 ```bash
-git clone https://github.com/El-brayan502/BROLYBOT-MD && cd ansi-BOT-MD && npm install
+git clone https://github.com/El-brayan502/BROLYBOT-MD && cd BROLYBOT-MD && npm install
 ```
 ```bash
 npm start
@@ -61,7 +61,7 @@ npm start
 ### `💥 𝙎𝙔 𝙔𝘼 𝘼𝙎 𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼𝘿𝙊 𝙐𝙉 𝘽𝙊𝙏 𝙎𝙊𝙇𝙊 𝙐𝙎𝘼 𝙇𝙊𝙎 𝙎𝙄𝙂𝙐𝙄𝙀𝙉𝙏𝙀𝙎 𝘾𝙊𝙈𝘼𝙉𝘿𝙊𝙎`
 
 ```bash
-git clone https://github.com/El-brayan502/BROLYBOT-MD && cd ansi-BOT-MD && npm install
+git clone https://github.com/El-brayan502/BROLYBOT-MD && cd BROLYBOT-MD && npm install
 ```
 ```bash
 npm start
