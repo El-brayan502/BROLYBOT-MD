@@ -146,7 +146,7 @@ Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
 
 ## `𝗘𝗗𝗜𝗧𝗢𝗥 𝗜 𝗣𝗥𝗢𝗣𝗜𝗘𝗧𝗔𝗥𝗜𝗢`
 
-<a href="https://Eliasar54@github.com"><img src="https://github.com/Eliasar54.png" width="250" height="250" alt="Eliasar54"/></a>
+<a href="https://El-brayan502@github.com"><img src="https://github.com/Eliasar54.png" width="250" height="250" alt="Eliasar54"/></a>
 
 
 > ### 📜 Créditos
