@@ -70,7 +70,7 @@ npm start
 ### `💥  𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝙲𝙰𝚂𝙾 𝙳𝙴 𝙳𝙴𝚃𝙴𝙽𝙴𝚁𝚂𝙴 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇`
 Si despues que ya instalas tu bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizas estos pasos
 ```bash
-> cd ansi-BOT-MD
+> cd BROLYBOT-MD
 > npm start
 ```
 ### `,💥  𝙾𝙱𝚃𝙴𝙽𝙴𝚁 𝙾𝚃𝚁𝙾 𝙲𝙾𝙳𝙸𝙶𝙾 𝚀𝚁 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇`
