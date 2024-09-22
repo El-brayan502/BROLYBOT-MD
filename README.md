@@ -92,7 +92,7 @@ Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
 ------------------
 
 <a href="https://github.com/El-brayan502/BROLYBOT-MD" target="_blank"> 
-    <img src="https://telegra.ph/file/bd13a944d2b0632cb8707.jpg" alt="Ansi" width="150"/> 
+    <img src="https://i.ibb.co/QrkLbP4/file.jpg" alt="Ansi" width="150"/> 
 </a> 
 
 
