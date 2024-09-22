@@ -98,3 +98,8 @@ Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
 
 ***
 
+## `EDITOR Y PROPIETARIO DEL BOT` 
+ALBERTO ![preview](https://user-images.githubusercontent.com/100887441/156953527-740d110d-3ee5-41e5-9899-fd4d4b248d43.gif)
+
+```bash
+`BROLYBOT-MD ___ By El-brayan502` 
