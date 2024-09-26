@@ -112,7 +112,7 @@ global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 global.verificar = fs.readFileSync('./media/menu2.jpg')
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/Eliasar54/ansi-BOT-MD.git'
+global.md = 'https://github.com/El-brayan502/BROLYBOT-MD.git'
 global.yt = 'https://www.youtube.com/@Naufrapp'
 global.tiktok = 'https://www.tiktok.com/@Broly_bot_777?_t=8mjJpoJfOBK&_r=1'
 global.fb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
