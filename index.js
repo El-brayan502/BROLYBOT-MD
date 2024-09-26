@@ -656,7 +656,7 @@ if (connection == 'connecting') {
 console.log(chalk.gray('iniciando🐉...'));
 console.log(chalk.gray('iniciando🐉...'));
 console.log(chalk.blue('iniciando🐉...')); // Cambiado a azul
-say('ANSI\nBOT\nMD', {font: 'block', align: 'center', colors: ['yellow', 'blueBright']}); // Cambiado a amarillo y azul brillante
+say('BrolyBot/nMD', {font: 'block', align: 'center', colors: ['yellow', 'blueBright']}); // Cambiado a amarillo y azul brillante
 say(`CREADOR ${creador2}\npuro nica papa`, {font: 'console', gradient: ['red', 'cyan']}); // Cambiado a rojo y cian
 
 
