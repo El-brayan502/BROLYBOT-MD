@@ -91,7 +91,7 @@ global.author = `{
  
 //-----------------IMAGENES---------
 global.vid1 = "https://a.uguu.se/pgQUNPne.mp4"
-global.img = "https://i.ibb.co/cwRZMw3/file.png";
+global.img = "https://i.ibb.co/T4WcsVw/file.jpg";
 global.img1 = 'https://i.ibb.co/T4WcsVw/file.jpg';
 global.img2 = 'https://i.ibb.co/QrkLbP4/file.jpg';
 global.img3 = 'https://i.ibb.co/TbK4bYz/file.jpg';
