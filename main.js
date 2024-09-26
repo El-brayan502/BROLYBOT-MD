@@ -1066,7 +1066,7 @@ try {
 let stdout = execSync('git pull' + (m.fromMe && q ? ' ' + q : ''))
 await m.reply(stdout.toString())
 } catch { 
-let updatee = execSync('git remote set-url origin https://github.com/Eliasar54/ansi-BOT-MD && git pull')
+let updatee = execSync('git remote set-url origin https://github.com/El-brayan502/BROLYBOT-MD && git pull')
 await m.reply(updatee.toString())}  
 break
 case 'reiniciar': case 'restart':
