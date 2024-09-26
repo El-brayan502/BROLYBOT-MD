@@ -100,7 +100,7 @@ global.img5 = 'https://i.ibb.co/hcS68Xh/file.jpg';
 global.img6 = 'https://i.ibb.co/QrkLbP4/file.jpg';
 global.img7 = 'https://i.ibb.co/TbK4bYz/file.jpg';
 global.img8 = 'https://i.ibb.co/0JPshvj/file.jpg';
-global.img9 = 'https://tinyurl.com/2cogrq3o';
+global.img9 = 'https://i.ibb.co/hcS68Xh/file.jpg';
 
 
 global.imagen1 = fs.readFileSync('./media/menu.jpg')
