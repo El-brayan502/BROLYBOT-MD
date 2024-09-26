@@ -229,7 +229,7 @@ text20: (fb, md) => `╭─────────────┈⊷
 
 * apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
 
-* git clone https://github.com/Eliasar54/ansi-BOT-MD.git && cd ansi-BOT-MD && yarn && npm install
+* git clone https://github.com/El-brayan502/BROLYBOT-MD.git && cd BROLYBOT-MD && yarn && npm install
 
 * npm start
 
