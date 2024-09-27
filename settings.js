@@ -5,7 +5,7 @@ const { en, es, ar, id, pt, rs } = require('./libs/idiomas/total-idiomas.js')
 const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["50231458537", "𝑩𝑹𝑨𝒀𝑨𝑵-𝑮𝑻᳇", true], ["50582340051"], ["51918534156"], ["123456789"]]
+global.owner = [["50231458537", "𝑩𝑹𝑨𝒀𝑨𝑵-𝑮𝑻᳇", true], ["50582340051"], ["51918534156"], ["51982110760"]]
 global.mods = []
 global.premium = []
 global.blockList = []
